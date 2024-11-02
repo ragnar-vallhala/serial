@@ -43,9 +43,7 @@ else()
     target_link_libraries(${PROJECT_NAME} setupapi)
 endif()
 
-## Uncomment to add example executable
-add_executable(serial_example examples/serial_example.cc)
-target_link_libraries(serial_example ${PROJECT_NAME})
+
 
 ## Include headers
 include_directories(include)
