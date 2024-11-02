@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/ragnar/Downloads/serial/build",
+  "command": "/usr/bin/c++  -I/home/ragnar/Downloads/serial/include  -o CMakeFiles/serial.dir/src/serial.cc.o -c /home/ragnar/Downloads/serial/src/serial.cc",
+  "file": "/home/ragnar/Downloads/serial/src/serial.cc",
+  "output": "CMakeFiles/serial.dir/src/serial.cc.o"
+},
+{
+  "directory": "/home/ragnar/Downloads/serial/build",
+  "command": "/usr/bin/c++  -I/home/ragnar/Downloads/serial/include  -o CMakeFiles/serial.dir/src/impl/unix.cc.o -c /home/ragnar/Downloads/serial/src/impl/unix.cc",
+  "file": "/home/ragnar/Downloads/serial/src/impl/unix.cc",
+  "output": "CMakeFiles/serial.dir/src/impl/unix.cc.o"
+},
+{
+  "directory": "/home/ragnar/Downloads/serial/build",
+  "command": "/usr/bin/c++  -I/home/ragnar/Downloads/serial/include  -o CMakeFiles/serial.dir/src/impl/list_ports/list_ports_linux.cc.o -c /home/ragnar/Downloads/serial/src/impl/list_ports/list_ports_linux.cc",
+  "file": "/home/ragnar/Downloads/serial/src/impl/list_ports/list_ports_linux.cc",
+  "output": "CMakeFiles/serial.dir/src/impl/list_ports/list_ports_linux.cc.o"
+},
+{
+  "directory": "/home/ragnar/Downloads/serial/build",
+  "command": "/usr/bin/c++  -I/home/ragnar/Downloads/serial/include  -o CMakeFiles/serial_example.dir/examples/serial_example.cc.o -c /home/ragnar/Downloads/serial/examples/serial_example.cc",
+  "file": "/home/ragnar/Downloads/serial/examples/serial_example.cc",
+  "output": "CMakeFiles/serial_example.dir/examples/serial_example.cc.o"
+}
+]
